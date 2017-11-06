@@ -1,0 +1,24 @@
+.blog-main a {
+    text-decoration: none;
+}
+.blog-item {
+    height: 90px !important;
+    color: #333;
+}
+
+.blog-item {
+    overflow: hidden;
+}
+
+.blog-item:hover {
+    background: #ececec !important;
+    cursor: pointer;
+}
+
+.blog-item:active {
+    background: #c9c9c9;
+}
+
+form .form-group textarea {
+    height: 120px !important;
+}
