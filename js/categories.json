@@ -1,8 +1,8 @@
 [
   {
-    "id": "1",
-    "name": "Name 1",
-    "Image": "Image 1",
-    "type": "Type 1"
+    "ServiceId": "1",
+    "ServiceName": "Name 1",
+    "ServiceImage": "Image 1",
+    "ServiceType": "Type 1"
   }
 ]
